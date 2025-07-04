@@ -12,3 +12,21 @@ a {
   color: #0077cc;
   text-decoration: none;
 }
+.project {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.project h3 {
+  margin-top: 0;
+}
+
+.project a {
+  display: inline-block;
+  margin-top: 10px;
+  color: #0077cc;
+  font-weight: bold;
+}
